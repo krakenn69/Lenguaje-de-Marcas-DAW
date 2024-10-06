@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<europa>
+    <españa>
+        <poblacion>47.8</poblacion>
+        <superficie>506.030</superficie>
+        <capital>Madrid</capital>
+    </españa>
+    <italia>
+        <poblacion>58,94</poblacion>
+        <superficie>302.073</superficie>
+        <capital>Roma</capital>        
+    </italia>
+    <grecia>
+        <poblacion>10,43</poblacion>
+        <superficie>131.957</superficie>
+        <capital>Atenas</capital>
+    </grecia>
+    <alemania>
+        <poblacion>83,8</poblacion>
+        <superficie>357.592</superficie>
+        <capital>Berlín</capital>
+    </alemania>
+</europa>

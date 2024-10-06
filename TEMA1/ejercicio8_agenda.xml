@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<agenda>
+    <persona gender="hombre">
+        <nombre>Paco</nombre>
+        <apellidos>Romero Martín</apellidos>
+        <ciudad>Málaga</ciudad>
+        <telefonos>
+            <casa>951232526</casa>
+            <movil>657898089</movil>
+            <trabajo>953232425</trabajo>
+        </telefonos>
+    </persona>
+    <persona gender="mujer">
+        <nombre>Herminia</nombre>
+        <apellidos>Veslaco Ruiz</apellidos>
+        <ciudad>Valencia</ciudad>
+        <telefonos>
+            <casa>958765432</casa>
+            <movil>722343536</movil>
+            <trabajo>977543212</trabajo>
+        </telefonos>
+    </persona>
+</agenda>

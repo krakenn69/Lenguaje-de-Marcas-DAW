@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<almacen>
+    <pedido>
+        <destinatario>
+            <nombre>José Antonio</nombre>
+            <apellidos>Lojo</apellidos>
+        </destinatario>
+        <contenido>Bicicleta A2020</contenido>
+        <direccion>
+            <calle>Barco</calle>
+            <numero>4</numero>
+            <planta>3</planta>
+            <puerta>A</puerta>
+        </direccion>
+        <fecha>
+            <dia>20</dia>
+            <mes>09</mes>
+            <año>2019</año>
+        </fecha>
+    </pedido>
+</almacen>

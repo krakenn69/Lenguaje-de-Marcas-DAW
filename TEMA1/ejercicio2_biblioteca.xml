@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<biblioteca>
+    <catalogo>
+        <libro>
+            <titulo_original>A Song of Ice and Fire</titulo_original>
+            <titulo_traducido>Canción de Hielo y Fuego</titulo_traducido>
+            <autor gender="hombre">George R. R. Martin</autor>
+            <anio_publicacion>1996</anio_publicacion>
+            <genero>Novela</genero>
+            <subgenero>Fantasía Heroica</subgenero>
+            <idioma_original>Inglés</idioma_original>
+            <idioma>Español</idioma>
+            <sinopsis>En "Canción de Hielo y Fuego", nobles familias luchan por el control del Trono de Hierro mientras antiguos peligros resurgen en un mundo lleno de traición y magia.</sinopsis>
+        </libro>
+        <libro>
+            <titulo_original>Harry Potter and the Prisoner of Azkaban</titulo_original>
+            <titulo_traducido>Harry Potter y el prisionero de Azkaban</titulo_traducido>
+            <autor gender="Mujer">J. K. Rowling</autor>
+            <anio_publicacion>1999</anio_publicacion>
+            <genero>Novela</genero>
+            <subgenero>Fantasía Aventuras</subgenero>
+            <idioma_original>Inglés</idioma_original>
+            <idioma>Español</idioma>
+            <sinopsis>En Harry Potter y el prisionero de Azkaban, Harry descubre secretos sobre su pasado mientras un peligroso fugitivo amenaza su vida en Hogwarts.</sinopsis>
+        </libro>
+        <libro>
+            <titulo_original>Mein Kampf</titulo_original>
+            <titulo_traducido>Mi Lucha</titulo_traducido>
+            <autor gender="Hombre">Adolf Hitler</autor>
+            <anio_publicacion>1925</anio_publicacion>
+            <genero subgenero="Autobiografía">Ensayo</genero>
+            <idioma_original>Alemán</idioma_original>
+            <idioma>Español</idioma>
+            <sinopsis>En Mein Kampf, Adolf Hitler expone su ideología política y su visión del futuro de Alemania, incluyendo su antisemitismo y el concepto de supremacía aria.</sinopsis>
+        </libro>
+    </catalogo>
+</biblioteca>

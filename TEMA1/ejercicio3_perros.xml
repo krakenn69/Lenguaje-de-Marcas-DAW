@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<perro>
+    <raza>
+        <nombre>Perro de aguas español</nombre>
+        <abreviatura>PAE</abreviatura>
+        <origen>Andalucía</origen>
+        <tamanio>
+            <macho>44 a 50 cm</macho>
+            <hembra>40 a 46 cm</hembra>
+        </tamanio>
+        <peso>
+            <macho>19 a 22 kg</macho>
+            <hembra>14 a 19 kg</hembra>
+        </peso>
+        <color_ojos>Marrón oscuro</color_ojos>
+        <pelo>Rizado y lanoso</pelo>
+        <anios_vida_media>14 años</anios_vida_media>
+    </raza>
+    <raza>
+        <nombre>Labrador Retriever</nombre>
+        <abreviatura>LR</abreviatura>
+        <origen>Canadá</origen>
+        <tamanio>
+            <macho>56 a 61 cm</macho>
+            <hembra>53 a 58 cm</hembra>
+        </tamanio>
+        <peso>
+            <macho>29 a 36 kg</macho>
+            <hembra>25 a 32 kg</hembra>
+        </peso>
+        <color_ojos>Café</color_ojos>
+        <pelo>Corto y denso</pelo>
+        <anios_vida_media>12 años</anios_vida_media>
+    </raza>
+    <raza>
+        <nombre>Pastor Alemán</nombre>
+        <abreviatura>PA</abreviatura>
+        <origen>Alemania</origen>
+        <tamanio>
+            <macho>60 a 65 cm</macho>
+            <hembra>55 a 60 cm</hembra>
+        </tamanio>
+        <peso>
+            <macho>30 a 40 kg</macho>
+            <hembra>22 a 32 kg</hembra>
+        </peso>
+        <color_ojos>Café oscuro</color_ojos>
+        <pelo>Medio y grueso</pelo>
+        <anios_vida_media>10 años</anios_vida_media>
+    </raza>
+</perro>
