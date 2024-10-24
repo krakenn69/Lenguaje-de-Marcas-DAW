@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pedido xmlns:pedi="http://www.iesbelen.org/pedido" xmlns:clien="http://www.janderenterprises/com/client">
+    <pedi:numero>65412</pedi:numero>
+    <pedi:fecha>
+        <pedi:dia>22</pedi:dia>
+        <pedi:mes>10</pedi:mes>
+        <pedi:año>2015</pedi:año>
+    </pedi:fecha>
+    <clien:ordenante>
+        <clien:nombre>Alicia</clien:nombre>
+        <clien:apellidos>López</clien:apellidos>
+        <clien:direccion>
+            <clien:calle>Avenida del condestable</clien:calle>
+            <clien:numero>72</clien:numero>
+            <clien:localidad>Almogía</clien:localidad>
+            <clien:provincia>Málaga</clien:provincia>
+            <clien:codigo_postal>29211</clien:codigo_postal>
+        </clien:direccion>
+    </clien:ordenante>
+    <pedi:articulos>
+        <pedi:articulo1>
+            <pedi:num_referencia>22321-W</pedi:num_referencia>
+            <pedi:nombre>Cortadora de cesped</pedi:nombre>
+            <pedi:cantidad valor="unidades">1</pedi:cantidad>
+            <pedi:precio valor="euros">423,65</pedi:precio>
+        </pedi:articulo1>
+        <pedi:articulo2>
+            <pedi:num_referencia>73623-A</pedi:num_referencia>
+            <pedi:nombre>Monitor de bebé</pedi:nombre>
+            <pedi:cantidad valor="unidades">2</pedi:cantidad>
+            <pedi:precio valor="euros">89,95</pedi:precio>
+        </pedi:articulo2>
+    </pedi:articulos>
+    <pedi:comentario cantidad="1 o mas">
+        <clien:comentario>
+            <clien:comentario1>Es imprescindible la entrega en horario de tarde.</clien:comentario1>
+            <clien:comentario2>El timbre interior no funciona. Hay que llamar a la puerta.</clien:comentario2>
+        </clien:comentario>
+    </pedi:comentario>
+</pedido>
