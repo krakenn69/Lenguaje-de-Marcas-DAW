@@ -1,0 +1,78 @@
+body {
+    font-family: Verdana;
+    font-size: 12px;
+    font-weight: normal;
+    color: black;
+    margin: 20px;
+    background-color: #DFF5FD;
+}
+
+h1 {
+    font-family: Arial;
+    font-size: 36px;
+    font-weight: bold;
+    color: darkblue;
+    text-align: center;
+    background-color: white;
+    border-top: 5px;
+    border-bottom: 5px;
+    margin: 20px auto;
+    border-top: solid;
+    border-bottom: solid;
+}
+
+#box {
+    margin-left: 500px;
+}
+
+h2 {
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.TimesRojo {
+    font-family: 'Times New Roman';
+    font-size: 14px;
+    font-weight: bold;
+    color: red;
+}
+
+.TimesVerde {
+    font-family: 'Times New Roman';
+    font-size: 14px;
+    font-weight: bold;
+    color: green;
+}
+
+.BorderColor {
+    border-top: darkblue;
+    border-bottom: darkblue;
+}
+
+#datos_personales {
+    background-color: #a14c4c;
+    font-size: 14px;
+    color: #74030A;
+    font-family: Arial, 'Times New Roman', sans-sherif;
+    border: solid 3px;
+    padding: 15px;
+    margin-top: 20px auto;
+    margin-bottom: 20px auto;
+    width: 50%;
+    border-radius: 25px;
+    box-shadow: 2px 2px 5px black;
+}
+
+#formacion_academica, #cursos, #idiomas, #otros_datos_interes {
+    background-color: #72c0ff;
+    font-size: 14px;
+    color: blue;
+    font-family: Arial, 'Times New Roman', sans-sherif;
+    border: solid 3px;
+    padding: 15px;
+    margin-top: 20px auto;
+    margin-bottom: 20px auto;
+    width: 50%;
+    border-radius: 25px;
+    box-shadow: 2px 2px 5px black;
+}
